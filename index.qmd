@@ -12,7 +12,7 @@ about:
 
 ::: {#hero-heading}
 
-Hello! I am Corey Williams, a top statistics student in the master's program at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.
+Hello! I am Corey Williams, a master's student in the statistics department at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.
 
 ## Education
 

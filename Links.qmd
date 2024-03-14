@@ -12,4 +12,32 @@ about:
 
 ## Reference materials
 
-## 
+### Learning resources
+
+[Stat quest on youtube](https://www.youtube.com/c/joshstarmer)
+
+#### Penn State
+
+Penn State has lots of great publicly available notes for their graduate statistics classes.
+
+[t-tests, anova, regression fundamentals](https://online.stat.psu.edu/stat500/)
+
+[Time Series](https://online.stat.psu.edu/stat510/)
+
+[Design of Experiments](https://online.stat.psu.edu/stat503/)
+
+### Dataset sites
+
+https://www.google.com/publicdata/directory
+
+[University of California Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+## Fun things in statistics
+
+[Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
+
+[Calculating pi by dropping sticks](https://ogden.eu/pi/)
+
+[Enter your age and see lots of fun approximate life statistics](https://neal.fun/life-stats/)

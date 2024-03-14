@@ -1,0 +1,75 @@
+# Courses
+This section contains all relevant college courses taken at the graduate and undergraduate level in reverse chronological order.
+
+
+# Oregon State University
+
+## Current
+ST 592 STATISTICAL GENOMICS \    
+ST 651 LINEAR MODEL THEORY \    
+
+## Fall 2023
+ST 509 CONSULTING PRACTICUM $~~~~~~$ A \    
+ST 541 PROB, COMPUT, & SIM IN STATIST $~~~~~~$ A \    
+ST 591 INTRO TO QUANTITATIVE GENOMICS $~~~~~~$ A \    
+ST 623 GENERALIZED REGRESSION MODELS $~~~~~~$ A \    
+
+## Spring 2023   
+ST 559 BAYESIAN STATISTICS  $~~~~~~$ A \    
+ST 553 STATISTICAL METHODS III  $~~~~~~$ A \    
+ST 563 THEORY OF STATISTICS III  $~~~~~~$  A \    
+
+## Winter 2023
+ST 507 SEM/ATTENDANCE AT CONSULTING  $~~~~~~$  P \    
+ST 539 SURVEY METHODS   $~~~~~~$ A- \    
+ST 552 STATISTICAL METHODS II  $~~~~~~$  A\    
+ST 562 THEORY OF STATISTICS II  $~~~~~~$  A \    
+
+## Fall 2022
+ST 531 SAMPLING METHODS   $~~~~~~$ A \    
+ST 551 STATISTICAL METHODS I   $~~~~~~$ A \    
+ST 561 THEORY OF STATISTICS I  $~~~~~~$  A- \    
+
+# University of Idaho
+
+## Fall 2021
+MATH 438 Mathematical Modeling  $~~~~~~$ A\   
+MATH 461 Abstract Algebra I  $~~~~~~$ A \   
+MATH 471 Introduction to Analysis I  $~~~~~~$ A\   
+STAT 517 Statistical Learning and Predictive Modeling A\      
+
+## Spring 2021
+STAT 436 Applied Regression Modeling $~~~~~~$  A\   
+STAT 452 Mathematical Statistics  $~~~~~~$ A \   
+STAT 519 Multivariate Analysis  $~~~~~~$ A \  
+
+## Fall 2020
+CS 121 Computer Science II   $~~~~~~$ A \   
+MATH 415 Cryptography   $~~~~~~$ B \   
+MATH 451 Probability Theory   $~~~~~~$ A \   
+STAT 407 Experimental Design   $~~~~~~$ A \  
+
+## Spring 2020
+MATH 437 Mathematical Biology  $~~~~~~$  A \    
+PHIL 103 Introduction to Ethics  $~~~~~~$  A \    
+STAT 426 SAS Programming   $~~~~~~$ A \    
+STAT 431 Statistical Analysis  $~~~~~~$  A\   
+
+## Fall 2019 
+MATH 215 Proof via Number Theory  $~~~~~~$  A \    
+MATH 310 Ordinary Differential Equations  $~~~~~~$  A \    
+STAT 422 Sample Survey Methods  $~~~~~~$  A \    
+
+## Spring 2019
+MATH 275 Analytic Geometry and Calculus III  $~~~~~~$  A \    
+MATH 330 Linear Algebra  $~~~~~~$  A \    
+STAT 301 Probability and Statistics  $~~~~~~$  A \    
+
+## Fall 2014
+MATH 175 Analytic Geometry and Calculus II  $~~~~~~$  A \    
+MATH 176 Discrete Mathematics  $~~~~~~$  A \    
+STAT 251 Statistical Methods  $~~~~~~$  A \    
+
+## Spring 2014
+CS 120 Computer Science I  $~~~~~~$  B \    
+MATH 170 Analytic Geometry and Calculus I  $~~~~~~$  A \    

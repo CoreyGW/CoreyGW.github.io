@@ -10,6 +10,8 @@ website:
         text: Home
       - href: Projects.qmd
         text: Projects
+      - href: Courses.qmd
+        text: Relevant Courses
       - href: Links.qmd
         text: Links
 

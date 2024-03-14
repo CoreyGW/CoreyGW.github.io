@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Corey",
     "section": "",
-    "text": "Hello! I am Corey Williams, a top statistics student in the master’s program at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
+    "text": "Hello! I am Corey Williams, a master’s student in the statistics department at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
   },
   {
     "objectID": "about.html",
@@ -110,5 +110,131 @@
     "title": "Projects",
     "section": "",
     "text": "This project’s purpose was for me to learn more about convolutional neural networks. I have been very interested in learning more about them and how to implement them so this was a great starting project."
+  },
+  {
+    "objectID": "Courses.html",
+    "href": "Courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "This section contains all relevant college courses taken at the graduate and undergraduate level in reverse chronological order."
+  },
+  {
+    "objectID": "Courses.html#current",
+    "href": "Courses.html#current",
+    "title": "Courses",
+    "section": "Current",
+    "text": "Current\nST 592 STATISTICAL GENOMICS  \nST 651 LINEAR MODEL THEORY"
+  },
+  {
+    "objectID": "Courses.html#fall-2023",
+    "href": "Courses.html#fall-2023",
+    "title": "Courses",
+    "section": "Fall 2023",
+    "text": "Fall 2023\nST 509 CONSULTING PRACTICUM \\(~~~~~~\\) A  \nST 541 PROB, COMPUT, & SIM IN STATIST \\(~~~~~~\\) A  \nST 591 INTRO TO QUANTITATIVE GENOMICS \\(~~~~~~\\) A  \nST 623 GENERALIZED REGRESSION MODELS \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#spring-2023",
+    "href": "Courses.html#spring-2023",
+    "title": "Courses",
+    "section": "Spring 2023",
+    "text": "Spring 2023\nST 559 BAYESIAN STATISTICS \\(~~~~~~\\) A  \nST 553 STATISTICAL METHODS III \\(~~~~~~\\) A  \nST 563 THEORY OF STATISTICS III \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#winter-2023",
+    "href": "Courses.html#winter-2023",
+    "title": "Courses",
+    "section": "Winter 2023",
+    "text": "Winter 2023\nST 507 SEM/ATTENDANCE AT CONSULTING \\(~~~~~~\\) P  \nST 539 SURVEY METHODS \\(~~~~~~\\) A-  \nST 552 STATISTICAL METHODS II \\(~~~~~~\\) A \nST 562 THEORY OF STATISTICS II \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#fall-2022",
+    "href": "Courses.html#fall-2022",
+    "title": "Courses",
+    "section": "Fall 2022",
+    "text": "Fall 2022\nST 531 SAMPLING METHODS \\(~~~~~~\\) A  \nST 551 STATISTICAL METHODS I \\(~~~~~~\\) A  \nST 561 THEORY OF STATISTICS I \\(~~~~~~\\) A-"
+  },
+  {
+    "objectID": "Courses.html#fall-2021",
+    "href": "Courses.html#fall-2021",
+    "title": "Courses",
+    "section": "Fall 2021",
+    "text": "Fall 2021\nMATH 438 Mathematical Modeling \\(~~~~~~\\) A \nMATH 461 Abstract Algebra I \\(~~~~~~\\) A  \nMATH 471 Introduction to Analysis I \\(~~~~~~\\) A \nSTAT 517 Statistical Learning and Predictive Modeling A"
+  },
+  {
+    "objectID": "Courses.html#spring-2021",
+    "href": "Courses.html#spring-2021",
+    "title": "Courses",
+    "section": "Spring 2021",
+    "text": "Spring 2021\nSTAT 436 Applied Regression Modeling \\(~~~~~~\\) A \nSTAT 452 Mathematical Statistics \\(~~~~~~\\) A  \nSTAT 519 Multivariate Analysis \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#fall-2020",
+    "href": "Courses.html#fall-2020",
+    "title": "Courses",
+    "section": "Fall 2020",
+    "text": "Fall 2020\nCS 121 Computer Science II \\(~~~~~~\\) A  \nMATH 415 Cryptography \\(~~~~~~\\) B  \nMATH 451 Probability Theory \\(~~~~~~\\) A  \nSTAT 407 Experimental Design \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#spring-2019",
+    "href": "Courses.html#spring-2019",
+    "title": "Courses",
+    "section": "Spring 2019",
+    "text": "Spring 2019\nMATH 275 Analytic Geometry and Calculus III \\(~~~~~~\\) A  \nMATH 330 Linear Algebra \\(~~~~~~\\) A  \nSTAT 301 Probability and Statistics \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#fall-2014",
+    "href": "Courses.html#fall-2014",
+    "title": "Courses",
+    "section": "Fall 2014",
+    "text": "Fall 2014\nMATH 175 Analytic Geometry and Calculus II \\(~~~~~~\\) A  \nMATH 176 Discrete Mathematics \\(~~~~~~\\) A  \nSTAT 251 Statistical Methods \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#spring-2014",
+    "href": "Courses.html#spring-2014",
+    "title": "Courses",
+    "section": "Spring 2014",
+    "text": "Spring 2014\nCS 120 Computer Science I \\(~~~~~~\\) B  \nMATH 170 Analytic Geometry and Calculus I \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#fall-2014-1",
+    "href": "Courses.html#fall-2014-1",
+    "title": "Courses",
+    "section": "Fall 2014",
+    "text": "Fall 2014"
+  },
+  {
+    "objectID": "Courses.html#spring-2020",
+    "href": "Courses.html#spring-2020",
+    "title": "Courses",
+    "section": "Spring 2020",
+    "text": "Spring 2020\nMATH 437 Mathematical Biology \\(~~~~~~\\) A  \nPHIL 103 Introduction to Ethics \\(~~~~~~\\) A  \nSTAT 426 SAS Programming \\(~~~~~~\\) A  \nSTAT 431 Statistical Analysis \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Courses.html#fall-2019",
+    "href": "Courses.html#fall-2019",
+    "title": "Courses",
+    "section": "Fall 2019",
+    "text": "Fall 2019\nMATH 215 Proof via Number Theory \\(~~~~~~\\) A  \nMATH 310 Ordinary Differential Equations \\(~~~~~~\\) A  \nSTAT 422 Sample Survey Methods \\(~~~~~~\\) A"
+  },
+  {
+    "objectID": "Links.html",
+    "href": "Links.html",
+    "title": "Links",
+    "section": "",
+    "text": "Stat quest on youtube\n\n\nPenn State has lots of great publicly available notes for their graduate statistics classes.\nt-tests, anova, regression fundamentals\nTime Series\nDesign of Experiments\n\n\n\n\nhttps://www.google.com/publicdata/directory\nUniversity of California Irvine Machine Learning Repository\nKaggle"
+  },
+  {
+    "objectID": "Links.html#reference-materials",
+    "href": "Links.html#reference-materials",
+    "title": "Links",
+    "section": "",
+    "text": "Stat quest on youtube\n\n\nPenn State has lots of great publicly available notes for their graduate statistics classes.\nt-tests, anova, regression fundamentals\nTime Series\nDesign of Experiments\n\n\n\n\nhttps://www.google.com/publicdata/directory\nUniversity of California Irvine Machine Learning Repository\nKaggle"
+  },
+  {
+    "objectID": "Links.html#fun-things-in-statistics",
+    "href": "Links.html#fun-things-in-statistics",
+    "title": "Links",
+    "section": "Fun things in statistics",
+    "text": "Fun things in statistics\nSpurious Correlations\nCalculating pi by dropping sticks\nEnter your age and see lots of fun approximate life statistics"
   }
 ]
