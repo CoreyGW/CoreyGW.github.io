@@ -2,15 +2,113 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CoreyGW.github.io",
+    "title": "About Corey",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am Corey Williams, a top statistics student in the master’s program at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Corey",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am Corey Williams, a top statistics student in the master’s program at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, ggplot2, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Corey",
+    "section": "",
+    "text": "Oregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Corey",
+    "section": "",
+    "text": "Oregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Corey",
+    "section": "",
+    "text": "Oregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022"
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "About Corey",
+    "section": "",
+    "text": "Seely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Corey",
+    "section": "",
+    "text": "Programming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, ggplot2, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Corey",
+    "section": "",
+    "text": "Oregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "About Corey",
+    "section": "",
+    "text": "Programming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "About Corey",
+    "section": "",
+    "text": "Seely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project’s purpose was for me to learn more about convolutional neural networks. I have been very interested in learning more about them and how to implement them so this was a great starting project."
+  },
+  {
+    "objectID": "Projects.html#another-one",
+    "href": "Projects.html#another-one",
+    "title": "Projects",
+    "section": "another one",
+    "text": "another one"
+  },
+  {
+    "objectID": "Projects.html#analysis-of-quarantine-implementation-in-an-epidemic",
+    "href": "Projects.html#analysis-of-quarantine-implementation-in-an-epidemic",
+    "title": "Projects",
+    "section": "",
+    "text": "This project was completed for my mathematical biology class along with Alyssa Genther. This project looked at recreating the results of Dobay et. al. in Renaissance model of an epidemic with quarantine from the Journal of Theoretical Biology (2013). In addition to recreating some of the work in the paper we also looked at adding different lengths of quarantines at different time points. This work revolves around an SIR model framework."
+  },
+  {
+    "objectID": "Projects.html#simulating-violations-of-statistical-test-assumptions-december-2023",
+    "href": "Projects.html#simulating-violations-of-statistical-test-assumptions-december-2023",
+    "title": "Projects",
+    "section": "Simulating Violations of Statistical Test Assumptions (December 2023)",
+    "text": "Simulating Violations of Statistical Test Assumptions (December 2023)\nOne of the areas I have seen students struggle with the most is in assessing the assumptions of statistical tests. I have found that students don’t really have any concept of what it looks like when assumptions are reasonably met and how far we can stretch assumptions while still getting useful results. (Heck even I still have a lot of room to improve in this!)\nThis project was created for my simulations and computation class and looked at violating the assumptions of equal variance and normality of t-tests and ANOVA."
+  },
+  {
+    "objectID": "Projects.html#analysis-of-quarantine-implementation-in-an-epidemic-may-2020",
+    "href": "Projects.html#analysis-of-quarantine-implementation-in-an-epidemic-may-2020",
+    "title": "Projects",
+    "section": "Analysis of Quarantine Implementation in an Epidemic (May 2020)",
+    "text": "Analysis of Quarantine Implementation in an Epidemic (May 2020)\nThis project was completed for my mathematical biology class along with Alyssa Genther. This project looked at recreating the results of Dobay et. al. in Renaissance model of an epidemic with quarantine from the Journal of Theoretical Biology (2013). In addition to recreating some of the work in the paper we also looked at adding different lengths of quarantines at different time points. This work revolves around an SIR model framework."
+  },
+  {
+    "objectID": "Projects.html#smiling-detection-january-2024",
+    "href": "Projects.html#smiling-detection-january-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "This project’s purpose was for me to learn more about convolutional neural networks. I have been very interested in learning more about them and how to implement them so this was a great starting project."
   }
 ]

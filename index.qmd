@@ -1,11 +1,60 @@
 ---
-title: "CoreyGW.github.io"
+title: "About Corey"
+about:
+  id: hero-heading
+  template: jolla
+  image: Images/Profile image.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/corey-g-williams/
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I am Corey Williams, a top statistics student in the master's program at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.
 
-```{r}
-1 + 1
-```
+## Education
+
+**Oregon State University** \| Corvallis, OR\
+M.S. in Statistics \| August 2022 - Current
+
+**University of Idaho** \| Moscow, ID\
+B.S. in Mathematics & Statistics \| January 2019 - December 2021
+
+## Experience
+
+Oregon State University \| Graduate Teaching Assistant \| September 2022-Present
+
+Oregon State University \| Statistical Consulting Practicum \| September 2023 - December 2023
+
+University of Idaho \| Statistics Assistance Center Tutor \| March 2020-May 2022
+
+## Skills
+
+-   Programming languages (In order of experience)
+
+    -   R, Python, SAS, C++, and SQL
+
+-   Machine Learning
+
+    -   Random Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means
+
+-   Statistical Methods
+
+    -   Hypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design
+
+-   Libraries/Modules
+
+    -   R: tidyverse, lme4, nlme, e1071, and randomForest
+
+    -   Python: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib
+
+## Awards
+
+![Seely Award from Oregon State University](Awards/Seely%20Award.jpg){width="50%" height="50%"}
+
+![Chair's Award for Excellence from the University of Idaho](Awards/Chair's%20Award.jpg){width="50%" height="50%"}
+
+:::
+

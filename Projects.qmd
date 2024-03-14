@@ -1,0 +1,26 @@
+---
+title: Projects
+---
+
+## Smiling Detection (January 2024)
+This project's purpose was for me to learn more about convolutional neural networks. I have been very interested in learning more about them and how to implement them so this was a great starting project. 
+
+
+## Simulating Violations of Statistical Test Assumptions (December 2023)
+One of the areas I have seen students struggle with the most is in assessing the assumptions of statistical tests. I have found that students don't really have any concept of what it looks like when assumptions are reasonably met and how far we can stretch assumptions while still getting useful results. (Heck even I still have a lot of room to improve in this!)
+
+This project was created for my simulations and computation class and looked at violating the assumptions of equal variance and normality of t-tests and ANOVA.
+
+```{=html}
+<embed src="Project Pdfs/Simulating Violations of Statistical Test Assumptions December 2023.pdf" width="500" height="375" 
+ type="application/pdf">
+```
+
+## Analysis of Quarantine Implementation in an Epidemic (May 2020)
+
+This project was completed for my mathematical biology class along with Alyssa Genther. This project looked at recreating the results of Dobay et. al. in [Renaissance model of an epidemic with quarantine](https://www.sciencedirect.com/science/article/abs/pii/S0022519312005279) from the Journal of Theoretical Biology (2013). In addition to recreating some of the work in the paper we also looked at adding different lengths of quarantines at different time points. This work revolves around an SIR model framework.
+
+```{=html}
+<embed src="Project Pdfs/Analysis of Quarantine Implementation in an Epidemic May 2020.pdf" width="500" height="375" 
+ type="application/pdf">
+```

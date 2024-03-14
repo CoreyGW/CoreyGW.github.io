@@ -1,0 +1,15 @@
+---
+title: "Links"
+about:
+  id: hero-heading
+  template: jolla
+  image: Profile image.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/corey-g-williams/
+---
+
+## Reference materials
+
+## 
