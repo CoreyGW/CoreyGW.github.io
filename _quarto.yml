@@ -12,6 +12,8 @@ website:
         text: Projects
       - href: Courses.qmd
         text: Relevant Courses
+      - href: Experience.qmd
+        text: Experience
       - href: Links.qmd
         text: Links
 

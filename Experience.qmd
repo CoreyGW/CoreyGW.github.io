@@ -1,0 +1,33 @@
+---
+title: Experience
+---
+
+# Graduate Teaching Assistant
+Having the opportunity to be a teaching assistant has been one of the highlights of my time at OSU. Throughout my experience I've found immense fulfillment in being able to be involved with so many remarkable students. The diverse background of students has highlighted one of my favorite aspects of statistics which is being able to be involved in so many different fields. It has afforded me the opportunity to learn about so many topics and hear perspectives I never would have been exposed to otherwise. Additionally it has also allowed me to become a better communicator and presenter.
+
+The responsibilities of a teaching assistant are fairly standard across all classes that I have been involved with. All of them have involved some form of teaching (either in programming labs or recitations), grading, and holding office hours. 
+
+## List of courses I have been a teaching assistant for
+
+-   ST 351 (4x) & ST 352 (course size ~200, lab sizes ~30)
+
+    -   ST 351 and 352 are introductory statistics courses aimed at undergraduate students with little to no statistics experience. These courses teach students common statistical methods like t-tests, anova, slr, mlr, and $\chi^2$ tests. In addition to teaching these methods these courses teach students how to use R in order to perform these methods in practice.
+
+-   ST 421/521 & 422/522 (Course size ~40 & ~15, recitation size ~40 & ~15)
+
+    -   These are two introductory courses in mathematical statistics, they serve to introduce students to core concepts in theoretical statistics like probability distributions, expectations, the central limit theorem, properties of estimators, and hypothesis testing all through a slightly more rigorous framework than students have seen before.
+
+-   ST 411/511 (Course size ~200, lab section sizes ~30)
+    - This class is aimed largely at graduate students to provide them with some of the statistical methods commonly seen in research.
+
+# Consulting Practicum
+
+This practicum pairs statistic students with clients (graduate students from other departments) in search of statistics advice. The consulting process takes place over a quarter culminating in a final recommendations document and meeting with the client. In additions to meetings with the assigned clients you also collaborate with other statistics students in the practicum to offer them advice that may be helpful to their clients. This process of collaboration both with non-statisticians and statisticians offers a fantastic first glance into statistical consulting.
+
+# Statistics tutor
+The Statistics Assistance Center is the University of Idaho's statistics tutoring center where students can come for drop in assistance. Working as a tutor offered an excellent first step in developing my ability to communicate technical details in a simplified but meaningful manner. This experience also allowed me to develop my communication skills and ability to help students learn to by breaking down large concepts into smaller and more easily digestible material.
+
+
+
+
+

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Corey",
     "section": "",
-    "text": "Hello! I am Corey Williams, a master’s student in the statistics department at Oregon State University with a passion for high dimensional data and machine learning techniques. Outside of academics I enjoy many hobbies such as gaming, bouldering, and juggling.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
+    "text": "Hello! I am Corey Williams, a master’s student in the statistics department at Oregon State University with a passion for high dimensional data and machine learning techniques. This website serves as a way for me to keep track of my academic and professional history along with being a place to collect resources to refer people to.\n\n\nOregon State University | Corvallis, OR\nM.S. in Statistics | August 2022 - Current\nUniversity of Idaho | Moscow, ID\nB.S. in Mathematics & Statistics | January 2019 - December 2021\n\n\n\nOregon State University | Graduate Teaching Assistant | September 2022-Present\nOregon State University | Statistical Consulting Practicum | September 2023 - December 2023\nUniversity of Idaho | Statistics Assistance Center Tutor | March 2020-May 2022\n\n\n\n\nProgramming languages (In order of experience)\n\nR, Python, SAS, C++, and SQL\n\nMachine Learning\n\nRandom Forests, Support Vector Machines, Neural Networks, Principal Component Analysis, and K Means\n\nStatistical Methods\n\nHypothesis testing, Linear Models, Generalized Linear models, Mixed Effect Models, Sampling Design, and Survey Design\n\nLibraries/Modules\n\nR: tidyverse, lme4, nlme, e1071, and randomForest\nPython: TensorFlow, SciKit-Learn, NumPy, Pandas, and Matplotlib\n\n\n\n\n\n\n\n\nSeely Award from Oregon State University\n\n\n\n\n\nChair’s Award for Excellence from the University of Idaho\n\n\n\n \n  \n   \n  \n    \n     LinkedIn"
   },
   {
     "objectID": "about.html",
@@ -116,7 +116,7 @@
     "href": "Courses.html",
     "title": "Courses",
     "section": "",
-    "text": "This section contains all relevant college courses taken at the graduate and undergraduate level in reverse chronological order."
+    "text": "This section contains all college courses involving mathematics and statistics that I have taken at the graduate and undergraduate level in reverse chronological order."
   },
   {
     "objectID": "Courses.html#current",
@@ -130,70 +130,70 @@
     "href": "Courses.html#fall-2023",
     "title": "Courses",
     "section": "Fall 2023",
-    "text": "Fall 2023\nST 509 CONSULTING PRACTICUM \\(~~~~~~\\) A  \nST 541 PROB, COMPUT, & SIM IN STATIST \\(~~~~~~\\) A  \nST 591 INTRO TO QUANTITATIVE GENOMICS \\(~~~~~~\\) A  \nST 623 GENERALIZED REGRESSION MODELS \\(~~~~~~\\) A"
+    "text": "Fall 2023\nST 509 CONSULTING PRACTICUM  \nST 541 PROB, COMPUT, & SIM IN STATIST  \nST 591 INTRO TO QUANTITATIVE GENOMICS  \nST 623 GENERALIZED REGRESSION MODELS"
   },
   {
     "objectID": "Courses.html#spring-2023",
     "href": "Courses.html#spring-2023",
     "title": "Courses",
     "section": "Spring 2023",
-    "text": "Spring 2023\nST 559 BAYESIAN STATISTICS \\(~~~~~~\\) A  \nST 553 STATISTICAL METHODS III \\(~~~~~~\\) A  \nST 563 THEORY OF STATISTICS III \\(~~~~~~\\) A"
+    "text": "Spring 2023\nST 559 BAYESIAN STATISTICS  \nST 553 STATISTICAL METHODS III  \nST 563 THEORY OF STATISTICS III"
   },
   {
     "objectID": "Courses.html#winter-2023",
     "href": "Courses.html#winter-2023",
     "title": "Courses",
     "section": "Winter 2023",
-    "text": "Winter 2023\nST 507 SEM/ATTENDANCE AT CONSULTING \\(~~~~~~\\) P  \nST 539 SURVEY METHODS \\(~~~~~~\\) A-  \nST 552 STATISTICAL METHODS II \\(~~~~~~\\) A \nST 562 THEORY OF STATISTICS II \\(~~~~~~\\) A"
+    "text": "Winter 2023\nST 507 SEM/ATTENDANCE AT CONSULTING  \nST 539 SURVEY METHODS  \nST 552 STATISTICAL METHODS II  \nST 562 THEORY OF STATISTICS II"
   },
   {
     "objectID": "Courses.html#fall-2022",
     "href": "Courses.html#fall-2022",
     "title": "Courses",
     "section": "Fall 2022",
-    "text": "Fall 2022\nST 531 SAMPLING METHODS \\(~~~~~~\\) A  \nST 551 STATISTICAL METHODS I \\(~~~~~~\\) A  \nST 561 THEORY OF STATISTICS I \\(~~~~~~\\) A-"
+    "text": "Fall 2022\nST 531 SAMPLING METHODS  \nST 551 STATISTICAL METHODS I  \nST 561 THEORY OF STATISTICS I"
   },
   {
     "objectID": "Courses.html#fall-2021",
     "href": "Courses.html#fall-2021",
     "title": "Courses",
     "section": "Fall 2021",
-    "text": "Fall 2021\nMATH 438 Mathematical Modeling \\(~~~~~~\\) A \nMATH 461 Abstract Algebra I \\(~~~~~~\\) A  \nMATH 471 Introduction to Analysis I \\(~~~~~~\\) A \nSTAT 517 Statistical Learning and Predictive Modeling A"
+    "text": "Fall 2021\nMATH 438 Mathematical Modeling  \nMATH 461 Abstract Algebra I  \nMATH 471 Introduction to Analysis I  \nSTAT 517 Statistical Learning and Predictive Modeling"
   },
   {
     "objectID": "Courses.html#spring-2021",
     "href": "Courses.html#spring-2021",
     "title": "Courses",
     "section": "Spring 2021",
-    "text": "Spring 2021\nSTAT 436 Applied Regression Modeling \\(~~~~~~\\) A \nSTAT 452 Mathematical Statistics \\(~~~~~~\\) A  \nSTAT 519 Multivariate Analysis \\(~~~~~~\\) A"
+    "text": "Spring 2021\nSTAT 436 Applied Regression Modeling  \nSTAT 452 Mathematical Statistics  \nSTAT 519 Multivariate Analysis"
   },
   {
     "objectID": "Courses.html#fall-2020",
     "href": "Courses.html#fall-2020",
     "title": "Courses",
     "section": "Fall 2020",
-    "text": "Fall 2020\nCS 121 Computer Science II \\(~~~~~~\\) A  \nMATH 415 Cryptography \\(~~~~~~\\) B  \nMATH 451 Probability Theory \\(~~~~~~\\) A  \nSTAT 407 Experimental Design \\(~~~~~~\\) A"
+    "text": "Fall 2020\nCS 121 Computer Science II  \nMATH 415 Cryptography  \nMATH 451 Probability Theory  \nSTAT 407 Experimental Design"
   },
   {
     "objectID": "Courses.html#spring-2019",
     "href": "Courses.html#spring-2019",
     "title": "Courses",
     "section": "Spring 2019",
-    "text": "Spring 2019\nMATH 275 Analytic Geometry and Calculus III \\(~~~~~~\\) A  \nMATH 330 Linear Algebra \\(~~~~~~\\) A  \nSTAT 301 Probability and Statistics \\(~~~~~~\\) A"
+    "text": "Spring 2019\nMATH 275 Analytic Geometry and Calculus III  \nMATH 330 Linear Algebra  \nSTAT 301 Probability and Statistics"
   },
   {
     "objectID": "Courses.html#fall-2014",
     "href": "Courses.html#fall-2014",
     "title": "Courses",
     "section": "Fall 2014",
-    "text": "Fall 2014\nMATH 175 Analytic Geometry and Calculus II \\(~~~~~~\\) A  \nMATH 176 Discrete Mathematics \\(~~~~~~\\) A  \nSTAT 251 Statistical Methods \\(~~~~~~\\) A"
+    "text": "Fall 2014\nMATH 175 Analytic Geometry and Calculus II  \nMATH 176 Discrete Mathematics  \nSTAT 251 Statistical Methods"
   },
   {
     "objectID": "Courses.html#spring-2014",
     "href": "Courses.html#spring-2014",
     "title": "Courses",
     "section": "Spring 2014",
-    "text": "Spring 2014\nCS 120 Computer Science I \\(~~~~~~\\) B  \nMATH 170 Analytic Geometry and Calculus I \\(~~~~~~\\) A"
+    "text": "Spring 2014\nCS 120 Computer Science I  \nMATH 170 Analytic Geometry and Calculus I"
   },
   {
     "objectID": "Courses.html#fall-2014-1",
@@ -207,14 +207,14 @@
     "href": "Courses.html#spring-2020",
     "title": "Courses",
     "section": "Spring 2020",
-    "text": "Spring 2020\nMATH 437 Mathematical Biology \\(~~~~~~\\) A  \nPHIL 103 Introduction to Ethics \\(~~~~~~\\) A  \nSTAT 426 SAS Programming \\(~~~~~~\\) A  \nSTAT 431 Statistical Analysis \\(~~~~~~\\) A"
+    "text": "Spring 2020\nMATH 437 Mathematical Biology  \nSTAT 426 SAS Programming  \nSTAT 431 Statistical Analysis"
   },
   {
     "objectID": "Courses.html#fall-2019",
     "href": "Courses.html#fall-2019",
     "title": "Courses",
     "section": "Fall 2019",
-    "text": "Fall 2019\nMATH 215 Proof via Number Theory \\(~~~~~~\\) A  \nMATH 310 Ordinary Differential Equations \\(~~~~~~\\) A  \nSTAT 422 Sample Survey Methods \\(~~~~~~\\) A"
+    "text": "Fall 2019\nMATH 215 Proof via Number Theory  \nMATH 310 Ordinary Differential Equations  \nSTAT 422 Sample Survey Methods"
   },
   {
     "objectID": "Links.html",
@@ -236,5 +236,19 @@
     "title": "Links",
     "section": "Fun things in statistics",
     "text": "Fun things in statistics\nSpurious Correlations\nCalculating pi by dropping sticks\nEnter your age and see lots of fun approximate life statistics"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Having the opportunity to be a teaching assistant has been one of the highlights of my time at OSU. Throughout my experience I’ve found immense fulfillment in being able to be involved with so many remarkable students. The diverse background of students has highlighted one of my favorite aspects of statistics which is being able to be involved in so many different fields. It has afforded me the opportunity to learn about so many topics and hear perspectives I never would have been exposed to otherwise. Additionally it has also allowed me to become a better communicator and presenter.\nThe responsibilities of a teaching assistant are fairly standard across all classes that I have been involved with. All of them have involved some form of teaching (either in programming labs or recitations), grading, and holding office hours.\n\n\n\nST 351 (4x) & ST 352 (course size ~200, lab sizes ~30)\n\nST 351 and 352 are introductory statistics courses aimed at undergraduate students with little to no statistics experience. These courses teach students common statistical methods like t-tests, anova, slr, mlr, and \\(\\chi^2\\) tests. In addition to teaching these methods these courses teach students how to use R in order to perform these methods in practice.\n\nST 421/521 & 422/522 (Course size ~40 & ~15, recitation size ~40 & ~15)\n\nThese are two introductory courses in mathematical statistics, they serve to introduce students to core concepts in theoretical statistics like probability distributions, expectations, the central limit theorem, properties of estimators, and hypothesis testing all through a slightly more rigorous framework than students have seen before.\n\nST 411/511 (Course size ~200, lab section sizes ~30)\n\nThis class is aimed largely at graduate students to provide them with some of the statistical methods commonly seen in research."
+  },
+  {
+    "objectID": "Experience.html#list-of-courses-i-have-been-a-teaching-assistant-for",
+    "href": "Experience.html#list-of-courses-i-have-been-a-teaching-assistant-for",
+    "title": "Experience",
+    "section": "",
+    "text": "ST 351 (4x) & ST 352 (course size ~200, lab sizes ~30)\n\nST 351 and 352 are introductory statistics courses aimed at undergraduate students with little to no statistics experience. These courses teach students common statistical methods like t-tests, anova, slr, mlr, and \\(\\chi^2\\) tests. In addition to teaching these methods these courses teach students how to use R in order to perform these methods in practice.\n\nST 421/521 & 422/522 (Course size ~40 & ~15, recitation size ~40 & ~15)\n\nThese are two introductory courses in mathematical statistics, they serve to introduce students to core concepts in theoretical statistics like probability distributions, expectations, the central limit theorem, properties of estimators, and hypothesis testing all through a slightly more rigorous framework than students have seen before.\n\nST 411/511 (Course size ~200, lab section sizes ~30)\n\nThis class is aimed largely at graduate students to provide them with some of the statistical methods commonly seen in research."
   }
 ]

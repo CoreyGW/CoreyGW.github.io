@@ -1,5 +1,7 @@
-# Courses
-This section contains all relevant college courses taken at the graduate and undergraduate level in reverse chronological order.
+---
+title: Courses
+---
+This section contains all college courses involving mathematics and statistics that I have taken at the graduate and undergraduate level in reverse chronological order. 
 
 
 # Oregon State University
@@ -9,67 +11,66 @@ ST 592 STATISTICAL GENOMICS \
 ST 651 LINEAR MODEL THEORY \    
 
 ## Fall 2023
-ST 509 CONSULTING PRACTICUM $~~~~~~$ A \    
-ST 541 PROB, COMPUT, & SIM IN STATIST $~~~~~~$ A \    
-ST 591 INTRO TO QUANTITATIVE GENOMICS $~~~~~~$ A \    
-ST 623 GENERALIZED REGRESSION MODELS $~~~~~~$ A \    
+ST 509 CONSULTING PRACTICUM  \    
+ST 541 PROB, COMPUT, & SIM IN STATIST \    
+ST 591 INTRO TO QUANTITATIVE GENOMICS  \    
+ST 623 GENERALIZED REGRESSION MODELS  \    
 
 ## Spring 2023   
-ST 559 BAYESIAN STATISTICS  $~~~~~~$ A \    
-ST 553 STATISTICAL METHODS III  $~~~~~~$ A \    
-ST 563 THEORY OF STATISTICS III  $~~~~~~$  A \    
+ST 559 BAYESIAN STATISTICS  \    
+ST 553 STATISTICAL METHODS III   \    
+ST 563 THEORY OF STATISTICS III  \    
 
 ## Winter 2023
-ST 507 SEM/ATTENDANCE AT CONSULTING  $~~~~~~$  P \    
-ST 539 SURVEY METHODS   $~~~~~~$ A- \    
-ST 552 STATISTICAL METHODS II  $~~~~~~$  A\    
-ST 562 THEORY OF STATISTICS II  $~~~~~~$  A \    
+ST 507 SEM/ATTENDANCE AT CONSULTING   \    
+ST 539 SURVEY METHODS   \    
+ST 552 STATISTICAL METHODS II  \    
+ST 562 THEORY OF STATISTICS II   \    
 
 ## Fall 2022
-ST 531 SAMPLING METHODS   $~~~~~~$ A \    
-ST 551 STATISTICAL METHODS I   $~~~~~~$ A \    
-ST 561 THEORY OF STATISTICS I  $~~~~~~$  A- \    
+ST 531 SAMPLING METHODS  \    
+ST 551 STATISTICAL METHODS I  \    
+ST 561 THEORY OF STATISTICS I   \    
 
 # University of Idaho
 
 ## Fall 2021
-MATH 438 Mathematical Modeling  $~~~~~~$ A\   
-MATH 461 Abstract Algebra I  $~~~~~~$ A \   
-MATH 471 Introduction to Analysis I  $~~~~~~$ A\   
-STAT 517 Statistical Learning and Predictive Modeling A\      
+MATH 438 Mathematical Modeling  \   
+MATH 461 Abstract Algebra I  \   
+MATH 471 Introduction to Analysis I  \   
+STAT 517 Statistical Learning and Predictive Modeling \      
 
 ## Spring 2021
-STAT 436 Applied Regression Modeling $~~~~~~$  A\   
-STAT 452 Mathematical Statistics  $~~~~~~$ A \   
-STAT 519 Multivariate Analysis  $~~~~~~$ A \  
+STAT 436 Applied Regression Modeling \   
+STAT 452 Mathematical Statistics   \   
+STAT 519 Multivariate Analysis  \  
 
 ## Fall 2020
-CS 121 Computer Science II   $~~~~~~$ A \   
-MATH 415 Cryptography   $~~~~~~$ B \   
-MATH 451 Probability Theory   $~~~~~~$ A \   
-STAT 407 Experimental Design   $~~~~~~$ A \  
+CS 121 Computer Science II   \   
+MATH 415 Cryptography   \   
+MATH 451 Probability Theory   \   
+STAT 407 Experimental Design    \  
 
 ## Spring 2020
-MATH 437 Mathematical Biology  $~~~~~~$  A \    
-PHIL 103 Introduction to Ethics  $~~~~~~$  A \    
-STAT 426 SAS Programming   $~~~~~~$ A \    
-STAT 431 Statistical Analysis  $~~~~~~$  A\   
+MATH 437 Mathematical Biology     \     
+STAT 426 SAS Programming   \    
+STAT 431 Statistical Analysis   \   
 
 ## Fall 2019 
-MATH 215 Proof via Number Theory  $~~~~~~$  A \    
-MATH 310 Ordinary Differential Equations  $~~~~~~$  A \    
-STAT 422 Sample Survey Methods  $~~~~~~$  A \    
+MATH 215 Proof via Number Theory  \    
+MATH 310 Ordinary Differential Equations   \    
+STAT 422 Sample Survey Methods   \    
 
 ## Spring 2019
-MATH 275 Analytic Geometry and Calculus III  $~~~~~~$  A \    
-MATH 330 Linear Algebra  $~~~~~~$  A \    
-STAT 301 Probability and Statistics  $~~~~~~$  A \    
+MATH 275 Analytic Geometry and Calculus III   \    
+MATH 330 Linear Algebra   \    
+STAT 301 Probability and Statistics   \    
 
 ## Fall 2014
-MATH 175 Analytic Geometry and Calculus II  $~~~~~~$  A \    
-MATH 176 Discrete Mathematics  $~~~~~~$  A \    
-STAT 251 Statistical Methods  $~~~~~~$  A \    
+MATH 175 Analytic Geometry and Calculus II   \    
+MATH 176 Discrete Mathematics   \    
+STAT 251 Statistical Methods   \    
 
 ## Spring 2014
-CS 120 Computer Science I  $~~~~~~$  B \    
-MATH 170 Analytic Geometry and Calculus I  $~~~~~~$  A \    
+CS 120 Computer Science I     \    
+MATH 170 Analytic Geometry and Calculus I  \    
